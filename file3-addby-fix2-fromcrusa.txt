@@ -1,0 +1,6 @@
+这个文件是在 crusa1018/git-test的fix2-fromcrusa 分支中增加的。
+
+【背景】
+·fork
+     https://github.com/zhuminjie1018/git-test  -> https://github.com/crusa1018/git-test
+·准备PR到 zhuminjie1018的对应项目（main）中。
